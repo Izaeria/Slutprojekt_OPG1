@@ -38,7 +38,7 @@
         <TextBox x:Name="passWord" Grid.Column="2" Grid.Row="5" Width="150"/>
         <Button x:Name="signInButton" Content="Sign in" Grid.Column="2" Grid.Row="7" Margin="35,10,35,0" Width="120" Background="#7B68EE" BorderBrush="#7B68EE"/>
         
-        <TextBlock Grid.Column="2" Grid.Row="9" FontSize ="10" Text="Not a user?" Margin="85,10,0,0" HorizontalAlignment="Left" />
+        <TextBlock Grid.Column="2" Grid.Row="9" FontSize ="10" Text="Not a user?" Margin="85,10,0,0" HorizontalAlignment="Left"/>
         <Button x:Name="registerButton" Content="Register" Grid.Column="2" Grid.Row="9" FontSize="10" Margin ="85,5" Width="50" HorizontalAlignment="Right" Background="#7B68EE" BorderBrush="#7B68EE"/>
 
     </Grid>
