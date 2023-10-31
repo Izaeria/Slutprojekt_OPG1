@@ -19,7 +19,7 @@ B:\OPG1\Slutprojekt_OPG1\SlutProjektOPG\SlutProjektOPG\obj\Debug\net7.0-windows\
 B:\OPG1\Slutprojekt_OPG1\SlutProjektOPG\SlutProjektOPG\obj\Debug\net7.0-windows\SlutProjektOPG.pdb
 B:\OPG1\Slutprojekt_OPG1\SlutProjektOPG\SlutProjektOPG\obj\Debug\net7.0-windows\SlutProjektOPG.genruntimeconfig.cache
 B:\OPG1\Slutprojekt_OPG1\SlutProjektOPG\SlutProjektOPG\obj\Debug\net7.0-windows\ref\SlutProjektOPG.dll
-B:\OPG1\Slutprojekt_OPG1\SlutProjektOPG\SlutProjektOPG\obj\Debug\net7.0-windows\Page1.g.vb
-B:\OPG1\Slutprojekt_OPG1\SlutProjektOPG\SlutProjektOPG\obj\Debug\net7.0-windows\Page1.baml
 B:\OPG1\Slutprojekt_OPG1\SlutProjektOPG\SlutProjektOPG\obj\Debug\net7.0-windows\RegisterWindow.g.vb
 B:\OPG1\Slutprojekt_OPG1\SlutProjektOPG\SlutProjektOPG\obj\Debug\net7.0-windows\RegisterWindow.baml
+B:\OPG1\Slutprojekt_OPG1\SlutProjektOPG\SlutProjektOPG\obj\Debug\net7.0-windows\TravelsWindow.g.vb
+B:\OPG1\Slutprojekt_OPG1\SlutProjektOPG\SlutProjektOPG\obj\Debug\net7.0-windows\TravelsWindow.baml

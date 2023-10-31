@@ -7,10 +7,10 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="Page1.xaml.vb">
+    <Compile Update="RegisterWindow.xaml.vb">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="RegisterWindow.xaml.vb">
+    <Compile Update="TravelsWindow.xaml.vb">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -18,10 +18,10 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Page1.xaml">
+    <Page Update="RegisterWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="RegisterWindow.xaml">
+    <Page Update="TravelsWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

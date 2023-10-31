@@ -17,7 +17,7 @@
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="20"/>
-            <RowDefinition Height="100"/>
+            <RowDefinition Height="120"/>
             <RowDefinition Height="auto"/>
             <RowDefinition Height="30"/>
             <RowDefinition Height="auto"/>
@@ -28,7 +28,7 @@
             <RowDefinition Height="30"/>
             <RowDefinition Height="20"/>
         </Grid.RowDefinitions>
-        <Image Width="200" Height="200" Source="B:\OPG1\Logo\travelpal-logo.png"/>
+        
 
         <TextBlock Grid.Column="2" Grid.Row="1" FontSize ="56" Text="TravelPal" Margin="20" Foreground="#7B68EE" FontWeight="Bold"/>
         <TextBlock Grid.Column="2" Grid.Row="2" FontSize ="20" Text="Choose your Username" Margin="0,0,0,5" HorizontalAlignment="Center" />
