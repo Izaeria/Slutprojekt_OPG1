@@ -10,11 +10,11 @@ none
 false
 
 B:\OPG1\Slutprojekt_OPG1\SlutProjektOPG\SlutProjektOPG\Application.xaml
-31217199439
+5-1610003039
 
-7-1150827353
+9-1092555379
 1981871740104
-MainWindow.xaml;RegisterWindow.xaml;TravelsWindow.xaml;
+AddTravelWindow.xaml;MainWindow.xaml;RegisterWindow.xaml;TravelDetailsWindow.xaml;TravelsWindow.xaml;
 
 True
 
