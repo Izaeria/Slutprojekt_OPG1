@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\OPG1\\Slutprojekt_OPG1\\SlutProjektOPG\\SlutProjektOPG\\SlutProjektOPG.vbproj",
+      "projectUniqueName": "C:\\Users\\Izabe\\OneDrive\\Dokument\\Repos\\SlutProjektOPG\\SlutProjektOPG\\SlutProjektOPG.vbproj",
       "projectName": "SlutProjektOPG",
-      "projectPath": "B:\\OPG1\\Slutprojekt_OPG1\\SlutProjektOPG\\SlutProjektOPG\\SlutProjektOPG.vbproj",
+      "projectPath": "C:\\Users\\Izabe\\OneDrive\\Dokument\\Repos\\SlutProjektOPG\\SlutProjektOPG\\SlutProjektOPG.vbproj",
       "packagesPath": "C:\\Users\\Izabe\\.nuget\\packages\\",
-      "outputPath": "B:\\OPG1\\Slutprojekt_OPG1\\SlutProjektOPG\\SlutProjektOPG\\obj\\",
+      "outputPath": "C:\\Users\\Izabe\\OneDrive\\Dokument\\Repos\\SlutProjektOPG\\SlutProjektOPG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Izabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
