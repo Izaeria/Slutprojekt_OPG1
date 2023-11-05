@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Izabe\\OneDrive\\Dokument\\Repos\\SlutProjektOPG\\SlutProjektOPG\\SlutProjektOPG.vbproj",
+      "projectUniqueName": "C:\\Users\\Izabe\\OneDrive\\Dokument\\Ny mapp\\SlutProjektOPG\\SlutProjektOPG\\SlutProjektOPG.vbproj",
       "projectName": "SlutProjektOPG",
-      "projectPath": "C:\\Users\\Izabe\\OneDrive\\Dokument\\Repos\\SlutProjektOPG\\SlutProjektOPG\\SlutProjektOPG.vbproj",
+      "projectPath": "C:\\Users\\Izabe\\OneDrive\\Dokument\\Ny mapp\\SlutProjektOPG\\SlutProjektOPG\\SlutProjektOPG.vbproj",
       "packagesPath": "C:\\Users\\Izabe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Izabe\\OneDrive\\Dokument\\Repos\\SlutProjektOPG\\SlutProjektOPG\\obj\\",
+      "outputPath": "C:\\Users\\Izabe\\OneDrive\\Dokument\\Ny mapp\\SlutProjektOPG\\SlutProjektOPG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Izabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
